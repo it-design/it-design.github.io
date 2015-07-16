@@ -20,15 +20,21 @@ Examples of these colors in the wild can be seen with the cart page’s store av
 
 
 ![Cart Not Available Example](../../../assets/famousfootwear/images/style-color-cart-not-available.png "Cart Not Available Example")
+
 This store availability module shows an orange icon for an alert
 
 
+
 ![Cart Available Example](../../../assets/famousfootwear/images/style-color-cart-available.png "Cart Available Example")
+
 This store availability module shows a green icon for a positive alert
 
 
-![Cart Highlight Example](../../../assets/famousfootwear/images/style-color-link-color.png "Cart Highlight Example")
+
+![Cart Highlight Example](../../../assets/famousfootwear/images/style-color-cart-highlight.png "Cart Highlight Example")
+
 The desktop cart UI has a gold counter to highlight the number of items in a customer’s cart
+
 
 
 ##Link Color
