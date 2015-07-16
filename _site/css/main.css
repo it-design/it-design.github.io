@@ -1805,7 +1805,7 @@ a.bg-danger:focus {
 
 .page-header {
   padding: 60px 0;
-  margin: 0 0 22px;
+  margin: 0;
   border-bottom: 1px solid #eeeeee;
   background: #5ac7ec url("../../assets/site/images/background-gears-right.png") no-repeat bottom right; }
   .page-header h1 {

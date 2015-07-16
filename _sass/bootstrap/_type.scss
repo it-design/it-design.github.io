@@ -140,7 +140,7 @@ mark,
 .page-header {
   //padding-bottom: (($line-height-computed / 2) - 1);
   padding: 60px 0;
-  margin: 0 0 $line-height-computed;
+  margin: 0;
   border-bottom: 1px solid $page-header-border-color;
   background: $page-header-background-color url("../../assets/site/images/background-gears-right.png") no-repeat bottom right;
   h1 {
