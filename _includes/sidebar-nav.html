@@ -1,0 +1,13 @@
+<div class="list-group">
+  {% for section in site.famousfootwear %}
+    <a class="list-group-item" href="{{ section.url }}"> <span class="badge">{{ section.badge }}</span>{{ section.title }}</a>   
+  {% endfor %}
+</div>
+
+<!-- {% assign componentsByType = site.famousfootwear | group_by:"type" %}
+{% for type in componentsByType %}
+<h2 id="guide-{{ type.name }}" class="cf">{{ type.name | capitalize }}</h2>
+ <li>
+    <a href="{{ famousfootwear.url }}">{{ famousfootwear.title }}</a>
+  </li>
+{% endfor %} -->
