@@ -1,6 +1,6 @@
 <div class="list-group">
   {% for section in site.famousfootwear %}
-    <a class="list-group-item" href="{{ section.url }}"> <span class="badge">{{ section.badge }}</span>{{ section.title }}</a>   
+    <a class="list-group-item {% if section.url == page.url %}active{% endif %}" href="{{ section.url }}"> <span class="badge">{{ section.badge }}</span>{{ section.title }}</a>   
   {% endfor %}
 </div>
 
