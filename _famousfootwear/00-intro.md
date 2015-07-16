@@ -7,4 +7,4 @@ badge: "New"
 ---
 
 # {{ page.title }}
-This is the introduction. Yay!
+This is the introduction. Yay! What's up
