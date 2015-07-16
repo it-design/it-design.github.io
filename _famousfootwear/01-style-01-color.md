@@ -16,6 +16,7 @@ In instances where UI messaging is required to grab the user’s attention, we u
 
 ![UI Colors](../../../assets/famousfootwear/images/style-color-ui.png "UI Colors")
 
+###Examples
 Examples of these colors in the wild can be seen with the cart page’s store availability feature and cart UI in the desktop header.
 
 
