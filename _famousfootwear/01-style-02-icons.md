@@ -17,7 +17,6 @@ The Famous Footwear font library, see below, is used primarily as a web font for
 ## IcoMoon
 IcoMoon is the web app used to compile the Famous Footwear icons into a usable font library for the web. Unfortunately IconMoon saves library information locally. This means that designers/developers must load the most recent library, a JSON file, to their local IcoMoon web app. Luckily, we keep this file up to date.
 
-Download the JSON file for IcoMoon >
 
 ## Pay with PayPal
 For the “Pay with PayPal” button, the PayPal logo was broken up into two separate SVG files (to maintain brand integrity).
