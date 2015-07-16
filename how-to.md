@@ -10,10 +10,13 @@ permalink: /how-to/
 
 # GIT It!
 
-## Pulling from Github
-
-## Pushing to Github
+## Syncing from Github
 
 ## Conflicts?
 
 # Updating Jekyll
+
+# Building and Watching
+
+1. In one terminal window `$ jekyll build --watch`
+2. In another terminal window `$ jekyll serve`
