@@ -8,7 +8,7 @@
   padding-bottom: $jumbotron-padding;
   margin-bottom: $jumbotron-padding;
   color: $jumbotron-color;
-  background-color: $jumbotron-bg;
+  background-color: none;
 
   h1,
   .h1 {
@@ -19,6 +19,10 @@
     margin-bottom: ($jumbotron-padding / 2);
     font-size: $jumbotron-font-size;
     font-weight: 200;
+  }
+
+  .btn {
+    margin-top: 20px;
   }
 
   > hr {

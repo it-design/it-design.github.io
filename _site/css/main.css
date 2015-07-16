@@ -1820,9 +1820,17 @@ a.bg-danger:focus {
       color: #fff;
       opacity: .5;
       font-size: 60%; }
-
-.page-header.famousfootwear {
-  background: #5ac7ec url("../../assets/site/images/background-foosh-2.png") no-repeat bottom right; }
+  .page-header.home {
+    background: #213640 url("../../assets/site/images/background-gears-dark-right.png") no-repeat bottom right; }
+    .page-header.home h1 {
+      color: #5AC7EC;
+      font-size: 40px; }
+    .page-header.home p {
+      color: #fff;
+      font-size: 24px;
+      opacity: .7; }
+  .page-header.famousfootwear {
+    background: #5ac7ec url("../../assets/site/images/background-foosh-2.png") no-repeat bottom right; }
 
 ul,
 ol {
@@ -4776,7 +4784,7 @@ a.badge:hover, a.badge:focus {
   padding-bottom: 30px;
   margin-bottom: 30px;
   color: inherit;
-  background-color: #eeeeee; }
+  background-color: none; }
   .jumbotron h1,
   .jumbotron .h1 {
     color: inherit; }
@@ -4784,6 +4792,8 @@ a.badge:hover, a.badge:focus {
     margin-bottom: 15px;
     font-size: 24px;
     font-weight: 200; }
+  .jumbotron .btn {
+    margin-top: 20px; }
   .jumbotron > hr {
     border-top-color: #d5d5d5; }
   .container .jumbotron, .container-fluid .jumbotron {

@@ -158,15 +158,25 @@ mark,
       font-size: 60%;
     }
   }
+  &.home {
+    background: #213640 url("../../assets/site/images/background-gears-dark-right.png") no-repeat bottom right;
+    h1 {
+      color: #5AC7EC;
+      font-size: 40px;
+    }
+    p {
+      color: #fff;
+      font-size: 24px;
+      opacity: .7;
+    }
+  }
+  &.famousfootwear {
+    background: $page-header-background-color url("../../assets/site/images/background-foosh-2.png") no-repeat bottom right;;
+  }
+  //.page-header.naturalizer {
+  //  background-color: #A3006C;
+  //}
 }
-
-.page-header.famousfootwear {
-  background: $page-header-background-color url("../../assets/site/images/background-foosh-2.png") no-repeat bottom right;;
-}
-
-//.page-header.naturalizer {
-//  background-color: #A3006C;
-//}
 
 // Lists
 // -------------------------
