@@ -8,21 +8,33 @@ styleguide: famousfootwear
 # {{ page.title }}
 The color palette below is comprised of the primary colors used for Famous Footwear’s digital experiences. *Famous Red* and *Body Copy* are used primarily as heading colors for marketing assets and desktop and mobile page headings. *Famous Blue* is used to indicate links or action items only.
 
+![Core Palette](../../../assets/famousfootwear/images/style-color-core.png "Core Palette")
+
 
 ##UI Color
 In instances where UI messaging is required to grab the user’s attention, we use the following colors. When we can, we stay away from using the Famous Red as an alert color since it is already part of the core color palette and might confuse users.
 
+![UI Colors](../../../assets/famousfootwear/images/style-color-ui.png "UI Colors")
+
 Examples of these colors in the wild can be seen with the cart page’s store availability feature and cart UI in the desktop header.
 
+
+![Cart Not Available Example](../../../assets/famousfootwear/images/style-color-cart-not-available.png "Cart Not Available Example")
 This store availability module shows an orange icon for an alert
 
+
+![Cart Available Example](../../../assets/famousfootwear/images/style-color-cart-available.png "Cart Available Example")
 This store availability module shows a green icon for a positive alert
 
+
+![Cart Highlight Example](../../../assets/famousfootwear/images/style-color-link-color.png "Cart Highlight Example")
 The desktop cart UI has a gold counter to highlight the number of items in a customer’s cart
 
 
 ##Link Color
 For link text links, the Famous Blue is used. Check out the Buttons page to learn more about how links are styled for Famous Footwear.
+
+![Link Color](../../../assets/famousfootwear/images/style-color-link-color.png "Link Color")
 
 
 #Gradient Application
