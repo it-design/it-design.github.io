@@ -29,3 +29,5 @@ For link text links, the Famous Blue is used. Check out the Buttons page to lear
 To match the strong lighting aesthetic seen with the product photography, and to create some tactile dimension to the digital experience, gradients are used in specific cases. The gradient Famous Header is used primarily for the header on the desktop and mobile site (see below). The Primary Action and Secondary Action gradients are used for giving depth to primary and secondary action buttons. Check out the Buttons page to learn when these buttons are used.
 
 Below are the gradients and their steps.
+
+![Gradients](../../../assets/famousfootwear/images/style-color-gradient.png "Gradients")
