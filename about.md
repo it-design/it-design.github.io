@@ -10,4 +10,4 @@ If you have any questions, feel free to contact:
 
 * [AJ Manker](mailto:ajmanker@caleres.com "Email AJ Manker")
 * [Joe Ebeler](mailto:jebeler@caleres.com "Email Joe Ebeler")
-* [Brett Banning](mailto:bbanning@caleres.com "Brett Banning")
+* [Brett Banning](mailto:bbanning@caleres.com "Email Brett Banning")
