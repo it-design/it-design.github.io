@@ -221,7 +221,8 @@ pre {
 .footer-col-wrapper {
   font-size: 15px;
   color: #828282;
-  margin-left: -15px; }
+  margin-left: -15px;
+  font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif; }
 
 .footer-col {
   float: left;
