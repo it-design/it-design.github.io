@@ -1821,7 +1821,8 @@ a.bg-danger:focus {
       opacity: .5;
       font-size: 60%; }
   .page-header.home {
-    background: #213640 url("../../assets/site/images/background-gears-dark-right.png") no-repeat bottom right; }
+    background: #213640 url("../../assets/site/images/background-gears-dark-right.png") no-repeat bottom right;
+    margin: 0 0 0; }
     .page-header.home h1 {
       color: #5AC7EC;
       font-size: 40px; }

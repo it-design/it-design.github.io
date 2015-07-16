@@ -160,6 +160,7 @@ mark,
   }
   &.home {
     background: #213640 url("../../assets/site/images/background-gears-dark-right.png") no-repeat bottom right;
+    margin: 0 0 0; //$line-height-computed
     h1 {
       color: #5AC7EC;
       font-size: 40px;
