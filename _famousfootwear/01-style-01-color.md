@@ -16,25 +16,25 @@ In instances where UI messaging is required to grab the user’s attention, we u
 
 ![UI Colors](../../../assets/famousfootwear/images/style-color-ui.png "UI Colors")
 
-###Examples
+####Examples
 Examples of these colors in the wild can be seen with the cart page’s store availability feature and cart UI in the desktop header.
 
 
 ![Cart Not Available Example](../../../assets/famousfootwear/images/style-color-cart-not-available.png "Cart Not Available Example")
 
-This store availability module shows an orange icon for an alert
+<span class="small">*This store availability module shows an orange icon for an alert*</span>
 
 
 
 ![Cart Available Example](../../../assets/famousfootwear/images/style-color-cart-available.png "Cart Available Example")
 
-This store availability module shows a green icon for a positive alert
+<span class="small">*This store availability module shows a green icon for a positive alert*</span>
 
 
 
 ![Cart Highlight Example](../../../assets/famousfootwear/images/style-color-cart-highlight.png "Cart Highlight Example")
 
-The desktop cart UI has a gold counter to highlight the number of items in a customer’s cart
+<span class="small">*The desktop cart UI has a gold counter to highlight the number of items in a customer’s cart*</span>
 
 
 
