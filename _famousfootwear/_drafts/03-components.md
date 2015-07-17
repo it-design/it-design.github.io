@@ -3,7 +3,6 @@ layout: styleguide
 title: "Components"
 type: components
 styleguide: famousfootwear
-publish: review
 ---
 
 # {{ page.title }}
