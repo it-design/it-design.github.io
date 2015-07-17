@@ -2,7 +2,6 @@
 layout: styleguide
 title: "Color"
 type: style
-badge: coming_soon
 styleguide: famousfootwear
 ---
 
