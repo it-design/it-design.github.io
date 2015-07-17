@@ -18,6 +18,16 @@
   background-color: $badge-bg;
   border-radius: $badge-border-radius;
 
+  &.new {
+    background-color: $badge-bg-new;
+  }
+  &.coming-soon {
+    background-color: $badge-bg-coming-soon;
+  }
+  &.updated {
+    background-color: $badge-bg-updated;
+  }
+
   // Empty badges collapse automatically (not available in IE8)
   &:empty {
     display: none;
@@ -66,3 +76,4 @@ a.badge {
     cursor: pointer;
   }
 }
+
