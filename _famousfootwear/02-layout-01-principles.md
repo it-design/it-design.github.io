@@ -3,6 +3,7 @@ layout: styleguide
 title: "Principles"
 type: layout
 styleguide: famousfootwear
+badge: "Coming Soon"
 ---
 
 # {{ page.title }}
