@@ -4,6 +4,7 @@ title: "Principles"
 type: layout
 styleguide: famousfootwear
 badge: updated
+publish: review
 ---
 
 # {{ page.title }}

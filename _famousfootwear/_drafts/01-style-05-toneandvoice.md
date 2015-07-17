@@ -3,6 +3,7 @@ layout: styleguide
 title: "Tone and Voice"
 type: style
 styleguide: famousfootwear
+publish: review
 ---
 
 # {{ page.title }}

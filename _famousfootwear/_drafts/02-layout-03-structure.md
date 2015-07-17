@@ -3,6 +3,7 @@ layout: styleguide
 title: "Structure"
 type: layout
 styleguide: famousfootwear
+publish: review
 ---
 
 # {{ page.title }}

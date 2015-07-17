@@ -3,6 +3,7 @@ layout: styleguide
 title: "Grid"
 type: layout
 styleguide: famousfootwear
+publish: review
 ---
 
 # {{ page.title }}

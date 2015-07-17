@@ -3,6 +3,7 @@ layout: styleguide
 title: "Modules"
 type: modules
 styleguide: famousfootwear
+publish: review
 ---
 
 # {{ page.title }}

@@ -3,6 +3,7 @@ layout: styleguide
 title: "Patterns"
 type: patterns
 styleguide: famousfootwear
+publish: review
 ---
 
 # {{ page.title }}
