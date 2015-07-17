@@ -3,16 +3,7 @@ layout: styleguide
 title: "Principles"
 type: layout
 styleguide: famousfootwear
-<<<<<<< Updated upstream
 badge: updated
-=======
-<<<<<<< HEAD
-badge: "Coming Soon"
-publish: review
-=======
-badge: updated
->>>>>>> origin/master
->>>>>>> Stashed changes
 ---
 
 # {{ page.title }}
