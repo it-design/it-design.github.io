@@ -3,7 +3,6 @@ layout: styleguide
 title: "Imagery"
 type: style
 styleguide: famousfootwear
-badge: coming-soon
 ---
 
 # {{ page.title }}

@@ -3,7 +3,6 @@ layout: styleguide
 title: "Icons"
 type: style
 styleguide: famousfootwear
-badge: new
 ---
 
 # {{ page.title }}
