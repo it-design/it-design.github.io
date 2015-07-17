@@ -1,6 +1,6 @@
 <div class="list-group">
   {% for section in site[page.styleguide] %}
-  	{% if section.publish == draft %}
+  	{% if section.publish == review %}
   		<a class="list-group-item {% if section.url == page.url %}active{% endif %}" href="{{ section.url }}">{% include badge.html %}<!-- <span class="badge">{{ section.badge }}</span>-->{{ section.title }}</a>
   	{% else %}
 	    
