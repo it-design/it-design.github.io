@@ -29,7 +29,7 @@ h1:first-child {
 h1, .h1,
 h2, .h2,
 h3, .h3 {
-  margin-top: $line-height-computed;
+  margin-top: 50px; /*$line-height-computed;*/
   margin-bottom: ($line-height-computed / 2);
 
   small,
