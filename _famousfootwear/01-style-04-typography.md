@@ -8,6 +8,8 @@ styleguide: famousfootwear
 # {{ page.title }}
 Typography can enhance a brand's identitiy and personality. Below are the fonts that Famous Footwear uses for their digital experiences.
 
+<hr>
+
 ##Archer
 Archer is Famous Footwear’s core brand font largely used for titles and headings
 
