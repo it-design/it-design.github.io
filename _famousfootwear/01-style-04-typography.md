@@ -34,6 +34,7 @@ If using Archer for numbers (such as price points) use the small caps, or LF, ve
 
 ![Archer Numbers](../../../assets/famousfootwear/images/style-typography-weights-archer-numbers.png "Archer Numbers")
 
+<hr>
 
 ##DIN
 For marketing assets, DIN is used as a headline/title font. DIN is being used less and less for the desktop and mobile experiences since it is such a bold and heavy font. Because of this, DIN is used sparingly in page and UI design.
@@ -48,6 +49,7 @@ For marketing assets, DIN is used as a headline/title font. DIN is being used le
 ###DIN Weights
 DIN 1451 STD only has one weight - Engschrift. With that being said, the only time DIN is used is when it’s in all caps.
 
+<hr>
 
 ##Helvetica Neue
 Helvetica Neue is a great versatile font. For all experiences (marketing assets, mobile and desktop layout, and UI purposes) Helvetica Neue is used for body copy, button text, disclaimers, captions, and various other UI pieces. 
@@ -62,6 +64,7 @@ For Helvetica Neue we use the following weights: *Regular, Italic, and Bold*.
 
 ![Helvetica Neue Weights](../../../assets/famousfootwear/images/style-typography-weights-helvetica-neue.png "Helvetica Neue Weights")
 
+<hr>
 
 #CSS Font Stack
 As with life, there are no assurances that a user will be able to see our beautiful hand crafted fonts across every device they view our site on. Below are the fallbacks for each font.
