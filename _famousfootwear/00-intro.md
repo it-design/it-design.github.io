@@ -1,7 +1,6 @@
 ---
 layout: styleguide
 title: "Introduction"
-type: intro
 styleguide: famousfootwear
 badge: new
 ---

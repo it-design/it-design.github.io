@@ -1,19 +1,35 @@
+<!-- Dynamic Navigation with Dropdown Navigation Groupings -->
+<!-- <ul class="nav nav-pills nav-stacked nav-sidebar">
+  {% for section in site[page.styleguide] %}
+   
+    {% if section.publish == review %}
+      
+      {% if section.type != null %}
+        
+        <li role="presentation" class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">{{ section.type | capitalize }}<span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              {% for subnav in section.type %}
+                 <li role="presentation"><a class="{% if section.url == page.url %}active{% endif %}" href="{{ section.url }}">{{ section.title }}{% include badge.html %}</a></li>
+              {% endfor %}
+            </ul>
+        </li>
+
+      {% else %}
+        <li role="presentation"><a class="{% if section.url == page.url %}active{% endif %}" href="{{ section.url }}">{{ section.title }}{% include badge.html %}</a></li>
+      {% endif %}
+    {% else %}
+    {% endif %}
+  {% endfor %}
+</ul> -->
+
+<!-- Simple List Navigation -->
 <div class="list-group">
   {% for section in site[page.styleguide] %}
   	{% if section.publish == review %}
-  		
-  		<a class="list-group-item {% if section.url == page.url %}active{% endif %}" href="{{ section.url }}">{% include badge.html %}<!-- <span class="badge">{{ section.badge }}</span>-->{{ section.title }}</a>
+  		  <a class="list-group-item {% if section.url == page.url %}active{% endif %}" href="{{ section.url }}">{% include badge.html %}{{ section.title }}</a>
   	{% else %}
 	    
   	{% endif %}
   {% endfor %}
 </div>
-
-
-<!-- {% assign componentsByType = site.famousfootwear | group_by:"type" %}
-{% for type in componentsByType %}
-<h2 id="guide-{{ type.name }}" class="cf">{{ type.name | capitalize }}</h2>
- <li>
-    <a href="{{ famousfootwear.url }}">{{ famousfootwear.title }}</a>
-  </li>
-{% endfor %} -->
