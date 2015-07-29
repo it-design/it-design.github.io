@@ -1838,7 +1838,7 @@ a.bg-danger:focus {
       font-size: 24px;
       opacity: .7; }
   .page-header.famousfootwear {
-    background: #5AC7EC url("../../assets/site/images/background-foosh-2.png") no-repeat bottom right; }
+    background: #ab1919 url("../../assets/site/images/background-foosh-2.png") no-repeat bottom right; }
 
 ul,
 ol {
@@ -4779,8 +4779,8 @@ a.label:hover, a.label:focus {
     top: 0;
     padding: 1px 5px; }
   .list-group-item.active > .badge, .nav-pills > .active > a > .badge {
-    color: #3cbde9;
-    background-color: #fff; }
+    color: #fff;
+    background-color: #3cbde9; }
   .list-group-item > .badge {
     float: right; }
   .list-group-item > .badge + .badge {
@@ -5083,8 +5083,8 @@ button.list-group-item {
 .list-group-item.active, .list-group-item.active:hover, .list-group-item.active:focus {
   z-index: 2;
   color: #fff;
-  background-color: #3cbde9;
-  border-color: #3cbde9; }
+  background-color: #25363F;
+  border-color: #25363F; }
   .list-group-item.active .list-group-item-heading,
   .list-group-item.active .list-group-item-heading > small,
   .list-group-item.active .list-group-item-heading > .small, .list-group-item.active:hover .list-group-item-heading,
@@ -5094,7 +5094,7 @@ button.list-group-item {
   .list-group-item.active:focus .list-group-item-heading > .small {
     color: inherit; }
   .list-group-item.active .list-group-item-text, .list-group-item.active:hover .list-group-item-text, .list-group-item.active:focus .list-group-item-text {
-    color: #f3fbfe; }
+    color: #7da0b3; }
 
 .list-group-item-success {
   color: #3c763d;
