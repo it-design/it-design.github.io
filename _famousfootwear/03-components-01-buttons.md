@@ -18,7 +18,7 @@ Famous Footwear has three primary button/link styles that span between mobile an
 
 
 
-##Primary Action
+###Primary Action
 For primary, or eCommerce focussed, actions such as “Add to Cart”, “Proceed to Checkout”, or “Checkout”, the red gradient button is used. Since red is such an attention grabbing color, it is best used only when necessary to maintain the user’s focus when it comes to shopping.
 
 ![Primary Button](../../../assets/famousfootwear/images/components-button-primary.png "Primary Button")
@@ -26,7 +26,7 @@ For primary, or eCommerce focussed, actions such as “Add to Cart”, “Procee
 <small>Primary action button</small>
 
 
-## Secondary Action
+###Secondary Action
 Secondary actions are content driven actions tied to marketing ads, forms, and other UI needs. All in all the blue background gradient is used with an arrow added when the user is going to a different page.
 
 ![Secondary Button](../../../assets/famousfootwear/images/components-button-secondary.png "Secondary Button")
@@ -39,7 +39,7 @@ Secondary actions are content driven actions tied to marketing ads, forms, and o
 (*arrow is an icon from the icon library, not a carrot)</small>
 
 
-#Text Links
+###Text Links
 Text links can be used in body copy, or as de-emphasized call to actions for smaller (marketing) stories.
 
 ![Text Link](../../../assets/famousfootwear/images/components-button-text.png "Text Link")
