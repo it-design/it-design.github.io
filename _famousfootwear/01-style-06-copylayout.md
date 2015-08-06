@@ -12,12 +12,10 @@ General copy structure (particularly for marketing related content) falls into o
 
 ![Copy Layout with Link](../../../assets/famousfootwear/images/style-copylayout-02.png "Copy Layout with Link")
 
-
-#Sizes
+###Sizing
 It is difficult, at this time, to highlight all of the nuances with our font sizes. Below is a general picture on how font sizing is handled with the desktop and mobile sites.
 
-
-##Desktop
+###Desktop
 These sizes are meant to be a general picture on the sizing. The general guideline is to use Archer for strictly titles (and never smaller than 20px), and to use Helvetica Neue for UI, copy, and supporting info. DIN should used sparingly (which at this time means only for the “Rewards” bar) since it is being phased out.
 
 ![Desktop Sizes](../../../assets/famousfootwear/images/style-copylayout-sizes-desktop.png "Desktop Sizes")
@@ -30,7 +28,7 @@ Here are a couple examples on how these styles might be leveraged for UI purpose
 ![Example Choose Your Store](../../../assets/famousfootwear/images/style-copylayout-dropdown-choose-store.png "Example Choose Your Store")
 
 
-##Mobile
+###Mobile
 These sizes are meant to be a general picture on the sizing. The general guideline is to use Archer for strictly titles (and never smaller than 20px), and to use Helvetica Neue for UI, copy, and supporting info. DIN should used sparingly (which at this time means only for the “Rewards” bar) since it is being phased out.
 
 ![Mobile Sizes](../../../assets/famousfootwear/images/style-copylayout-sizes-mobile.png "Mobile Sizes")
