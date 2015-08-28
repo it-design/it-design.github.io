@@ -33,3 +33,8 @@ collections:
     title:  "Famous Footwear"
     subtitle: "All of the styles and core elements for the family brand"
     permalink: /style-guides/:collection/:title/
+  naturalizer:
+    output: true
+    title:  "Naturalizer"
+    subtitle: "All of the styles and core elements for the generational brand"
+    permalink: /style-guides/:collection/:title/
