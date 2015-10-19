@@ -7,7 +7,7 @@ styleguide: famousfootwear
 
 # {{ page.title }}
 
-#Marketing Usage Recommendations
+###Usage Recommendations
 
 The Sitewide banner space should be reserved for coupon & BOGO events only. These are compelling enough messages that make sense to speak to on every page of our site. Messages like ‘Sport Sandals starting at $19.99’ do not need to be displayed on every page. We would not put a ‘Sport Sandals starting at $19.99’ in every isle of our Brick-and-Mortar stores so why are we doing that in our Online store.
 
@@ -15,7 +15,7 @@ A better ad space to message a promotion like ‘Sport Sandals starting at $19.9
 
 ![Sitewide Banner Specs](../../../assets/famousfootwear/images/marketing-banners-sitewide-specs.png "Sitewide Banner Specs")
 
-##Template File
+###Template File
 
 Its best to design your ad in the context of where it will appear. Because of that you will make decisions differently and the template file is set up with that in mind. You should put all your working layers within the project-name.jpg folder. Name that folder the name of your project and leave the .jpg extension. This will export the correct file for development.
 

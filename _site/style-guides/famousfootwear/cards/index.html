@@ -184,7 +184,7 @@
           <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Style<span class="caret"></span></a>
             <ul class="dropdown-menu">
               
-                 <li role="presentation"><a class="" href="/style-guides/famousfootwear/copy-layout-structure/">Copy Layout & Structure
+                 <li role="presentation"><a class="" href="/style-guides/famousfootwear/copy-layout/">Copy Layout
 </a></li>
               
             </ul>
@@ -274,7 +274,7 @@
           <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Marketing<span class="caret"></span></a>
             <ul class="dropdown-menu">
               
-                 <li role="presentation"><a class="" href="/style-guides/famousfootwear/homepage-guidelines/">Homepage Guidelines
+                 <li role="presentation"><a class="" href="/style-guides/famousfootwear/homepage/">Homepage
 </a></li>
               
             </ul>
@@ -292,7 +292,7 @@
           <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Marketing<span class="caret"></span></a>
             <ul class="dropdown-menu">
               
-                 <li role="presentation"><a class="" href="/style-guides/famousfootwear/landing-page-guidelines/">Landing Page Guidelines
+                 <li role="presentation"><a class="" href="/style-guides/famousfootwear/landing-pages/">Landing Pages
 </a></li>
               
             </ul>
@@ -369,8 +369,8 @@ Typography</a>
   	
   
   	
-  		  <a class="list-group-item " href="/style-guides/famousfootwear/copy-layout-structure/">
-Copy Layout & Structure</a>
+  		  <a class="list-group-item " href="/style-guides/famousfootwear/copy-layout/">
+Copy Layout</a>
   	
   
   	
@@ -394,13 +394,13 @@ Text Fields and Forms</a>
   	
   
   	
-  		  <a class="list-group-item " href="/style-guides/famousfootwear/homepage-guidelines/">
-Homepage Guidelines</a>
+  		  <a class="list-group-item " href="/style-guides/famousfootwear/homepage/">
+Homepage</a>
   	
   
   	
-  		  <a class="list-group-item " href="/style-guides/famousfootwear/landing-page-guidelines/">
-Landing Page Guidelines</a>
+  		  <a class="list-group-item " href="/style-guides/famousfootwear/landing-pages/">
+Landing Pages</a>
   	
   
   	
@@ -430,26 +430,28 @@ Left Nat Top (LNT)</a>
   <li>They can be any height or width</li>
 </ul>
 
-<h2 id="distance">Distance</h2>
+<h3 id="distance">Distance</h3>
 <p>Cards are meant to highlight our product and content as tangible items. This is why the size and drop shadow of a card are so important. For a card to be resting on the background of the device (desktop or mobile), it should have a subtle drop shadow. Whereas a card closer to the user (like a modal) will have a more pronounced drop shadow blur to emphasize that distance.</p>
 
+<h3 id="css">CSS</h3>
 <p>The drop shadow values for these two states are:</p>
 
-<ul>
-  <li><strong>Resting:</strong> box-shadow: 0px 1px 3px 0px rgba(6,16,48,0.20);</li>
-  <li><strong>Distant:</strong> box-shadow: 0px 1px 8px 0px rgba(6,16,48,0.20);</li>
-</ul>
+<div class="highlight"><pre><code class="language-css" data-lang="css"><span class="c">/* Resting */</span>
+<span class="nt">box-shadow</span><span class="o">:</span> <span class="nt">0px</span> <span class="nt">1px</span> <span class="nt">3px</span> <span class="nt">0px</span> <span class="nt">rgba</span><span class="o">(</span><span class="nt">6</span><span class="o">,</span><span class="nt">16</span><span class="o">,</span><span class="nt">48</span><span class="o">,</span><span class="nt">0</span><span class="nc">.20</span><span class="o">);</span>
+
+<span class="c">/* Distant */</span>
+<span class="nt">box-shadow</span><span class="o">:</span> <span class="nt">0px</span> <span class="nt">1px</span> <span class="nt">8px</span> <span class="nt">0px</span> <span class="nt">rgba</span><span class="o">(</span><span class="nt">6</span><span class="o">,</span><span class="nt">16</span><span class="o">,</span><span class="nt">48</span><span class="o">,</span><span class="nt">0</span><span class="nc">.20</span><span class="o">);</span></code></pre></div>
 
 <p><img src="../../../assets/famousfootwear/images/components-cards.png" alt="Cards" title="Cards Example" /></p>
 
-<p><small>The card on the left is close to the canvas, whereas the card on the right is farther away (thus it is larger and the shadow is more pronounced)</small></p>
+<p><small><em>The card on the left is close to the canvas, whereas the card on the right is farther away (thus it is larger and the shadow is more pronounced)</em></small></p>
 
-<h2 id="example">Example</h2>
+<h3 id="example">Example</h3>
 <p>The most prominent use of cards on famous.com can be found on the results pages where all products are wrapped in a card view.</p>
 
 <p><img src="../../../assets/famousfootwear/images/components-cards-product.png" alt="Product Card" title="Product Card Example" /></p>
 
-<p><small>The card on the left is the standard results card found on the Famous Footwear site. The card on the right is what that card COULD look like if a user hovered over it.</small></p>
+<p><small><em>The card on the left is the standard results card found on the Famous Footwear site. The card on the right is what that card COULD look like if a user hovered over it.</em></small></p>
 
       
       </div>

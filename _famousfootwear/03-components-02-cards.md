@@ -16,22 +16,28 @@ The specific properties of a card are:
 - They can be any height or width
 
 
-##Distance
+### Distance
 Cards are meant to highlight our product and content as tangible items. This is why the size and drop shadow of a card are so important. For a card to be resting on the background of the device (desktop or mobile), it should have a subtle drop shadow. Whereas a card closer to the user (like a modal) will have a more pronounced drop shadow blur to emphasize that distance.
 
+### CSS
 The drop shadow values for these two states are:
 
-- **Resting:** box-shadow: 0px 1px 3px 0px rgba(6,16,48,0.20);
-- **Distant:** box-shadow: 0px 1px 8px 0px rgba(6,16,48,0.20);
+{% highlight css %}
+/* Resting */
+box-shadow: 0px 1px 3px 0px rgba(6,16,48,0.20);
+
+/* Distant */
+box-shadow: 0px 1px 8px 0px rgba(6,16,48,0.20);
+{% endhighlight %}
 
 ![Cards](../../../assets/famousfootwear/images/components-cards.png "Cards Example")
 
-<small>The card on the left is close to the canvas, whereas the card on the right is farther away (thus it is larger and the shadow is more pronounced)</small>
+<small>*The card on the left is close to the canvas, whereas the card on the right is farther away (thus it is larger and the shadow is more pronounced)*</small>
 
 
-##Example
+### Example
 The most prominent use of cards on famous.com can be found on the results pages where all products are wrapped in a card view.
 
 ![Product Card](../../../assets/famousfootwear/images/components-cards-product.png "Product Card Example")
 
-<small>The card on the left is the standard results card found on the Famous Footwear site. The card on the right is what that card COULD look like if a user hovered over it.</small>
+<small>*The card on the left is the standard results card found on the Famous Footwear site. The card on the right is what that card COULD look like if a user hovered over it.*</small>

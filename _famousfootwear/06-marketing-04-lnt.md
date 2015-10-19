@@ -11,7 +11,7 @@ The Left Nav Top (LNT) ad space is located at top of the Filtering Navigation in
 
 ![LNT Specs](../../../assets/famousfootwear/images/marketing-banners-sitewide-specs.png "LNT Specs")
 
-##Template File
+###Template File
 
 Its best to design your ad in the context of where it will appear. Because of that you will make decisions differently and the template file is set up with that in mind. You should put all your working layers within the project-name.jpg folder. Name that folder the name of your project and leave the .jpg extension. This will export the correct file for development.
 
@@ -21,4 +21,4 @@ The setting ‘Generate Image Assets’ has been turned on in the template file 
 
 ![Screenshot 02](../../../assets/famousfootwear/images/marketing-lnt-screenshot02.png "Screenshot 02")
 
-
+<iframe width="456" height="940" src="//invis.io/WT3SQ5I8R" frameborder="0" allowfullscreen></iframe>
