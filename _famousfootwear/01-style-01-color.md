@@ -6,7 +6,7 @@ styleguide: famousfootwear
 ---
 
 # {{ page.title }}
-The color palette below is comprised of the primary colors used for Famous Footwear’s digital experiences. *Famous Red* and *Body Copy* are used primarily as heading colors for marketing assets and desktop and mobile page headings. *Famous Blue* is used to indicate links or action items only.
+The color palette below is ultimately comprised of the primary colors used for Famous Footwear’s digital experiences. *Famous Red* and *Body Copy* are used primarily as heading colors for marketing assets and desktop and mobile page headings. *Famous Blue* is used to indicate links or action items only.
 
 ![Core Palette](../../../assets/famousfootwear/images/style-color-core.png "Core Palette")
 
